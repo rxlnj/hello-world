@@ -1,2 +1,2 @@
 # hello-world
-Github made me do this.
+GitHub made me do this.
